@@ -1,4 +1,4 @@
-## Me chamo Daniel Helbingen, desenvolvedor front-end. 
+## Me chamo Daniel Helbingen, desenvolvedor fullstack. 
 
 <div align="center">
   <a href="https://github.com/helbingen">
@@ -15,7 +15,7 @@
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
  </div><hr>
-Atualmente programo utilizando HTLML, CSS e Javacript para front-end, estou estudando sobre React, NodeJs para me tornar um programador web fullstack.
+Programo utilizando Javacript com a biblioteca React para o front-end, utilizando Node para o back-end. Tenho conhecimento em framework css, Bootstrap e utilizo o banco de dados PostgreSQL e Firebase. Futuramente pretendo estudar Typescript e React Native para desenvolvimento mobile.
 Sou uma pessoa dedicada e curiosa, sempre quero aprender mais e mais, também gosto de ajudar no que for possível.
-Ao longo do tempo irei ir inserindo projetos que for fazendo por aqui. 
+Ao longo do tempo irei inserir projetos que for fazendo por aqui. 
   
